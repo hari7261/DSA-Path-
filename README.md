@@ -1,4 +1,4 @@
-## **Comprehensive DSA Syllabus in Java**
+## **Comprehensive DSA Syllabus in Java** 
 
 ### **1. Java Fundamentals for DSA**
 - **1.1 Java Basics**
