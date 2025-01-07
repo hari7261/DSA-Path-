@@ -15,7 +15,7 @@
     - Static Methods
     - Parameter Passing (Call by Value)
     - Tail Recursion and Optimization
-  - Exception Handling Basics
+  - [Exception Handling Basics](Exception%20Handling.md)
 
 - **1.2 Object-Oriented Programming (OOP)**
   - Classes and Objects
@@ -208,3 +208,7 @@
   - Computational Geometry
 
 ---
+
+### **Related Pages**
+- [Java Fundamentals](JAVA-FUNDAMENTALS.md)
+- [Exception Handling](Exception%20Handling.md)
